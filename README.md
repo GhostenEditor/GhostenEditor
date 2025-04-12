@@ -4,7 +4,7 @@
 - I love coding.
 - I love open source. ❤️
 
-![My Skills](https://skillicons.dev/icons?perline=14&i=angular,apple,bootstrap,css,dart,docker,electron,figma,flutter,git,github,githubactions,html,idea,ai,js,kotlin,linux,md,mysql,nginx,nodejs,ps,postman,reactivex,redis,regex,rust,sass,sqlite,svg,swift,tauri,threejs,ts,ubuntu,vite,vscode,vue,wasm,windows,yarn)
+[![My Skills](https://skillicons.dev/icons?perline=14&i=angular,apple,bootstrap,css,dart,docker,electron,figma,flutter,git,github,githubactions,html,idea,ai,js,kotlin,linux,md,mysql,nginx,nodejs,ps,postman,reactivex,redis,regex,rust,sass,sqlite,svg,swift,tauri,threejs,ts,ubuntu,vite,vscode,vue,wasm,windows,yarn)](https://github.com/GhostenEditor)
 
 ---
 
