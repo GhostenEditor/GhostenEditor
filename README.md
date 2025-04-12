@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Ghosten 👋
 
+- I'm a fullstack developer, designer.
+- I love coding.
+- I love open source. ❤️
+
+![My Skills](https://skillicons.dev/icons?perline=14&i=angular,apple,bootstrap,css,dart,docker,electron,figma,flutter,git,github,githubactions,html,idea,ai,js,kotlin,linux,md,mysql,nginx,nodejs,ps,postman,reactivex,redis,regex,rust,sass,sqlite,svg,swift,tauri,threejs,ts,ubuntu,vite,vscode,vue,wasm,windows,yarn)
 <!--
 **GhostenEditor/GhostenEditor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
