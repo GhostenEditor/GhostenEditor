@@ -1,8 +1,16 @@
-## Hi there, I'm Ghosten 👋
+# Hi there, I'm GhostenEditor 👋
 
-- I'm a fullstack developer, designer.
-- I love coding.
-- I love open source. ❤️
+Welcome to my GitHub profile! I'm passionate about technology, open-source, and building innovative solutions. Here's a little about me:
+
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **exciting open-source projects**
+- 🌱 Always learning new technologies and frameworks
+- 💬 Ask me about **mobile development, automation, and DevOps**
+- ⚡ Fun fact: I enjoy **exploring the intersection of art and code**
+
+<br>
 
 [![My Skills](https://skillicons.dev/icons?perline=14&i=angular,apple,bootstrap,css,dart,docker,electron,figma,flutter,git,github,githubactions,html,idea,ai,js,kotlin,linux,md,mysql,nginx,nodejs,ps,postman,reactivex,redis,regex,rust,sass,sqlite,svg,swift,tauri,threejs,ts,ubuntu,vite,vscode,vue,wasm,windows,yarn)](https://github.com/GhostenEditor)
 
